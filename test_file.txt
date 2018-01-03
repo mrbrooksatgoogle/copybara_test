@@ -4,4 +4,4 @@ Hello back, from the world.
 So does this work with a description update?
 Not yet.
 
-How about manually?
+But this might!
